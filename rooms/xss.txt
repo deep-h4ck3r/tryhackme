@@ -23,7 +23,7 @@ Which one of the following characters do you expect to be encoded? +, -, *, <, =
 <
 
 Which function can we use in JavaScript to replace (unsafe) special characters with HTML entities?
-escapeHtml()
+sanitizeHtml()
 
 Which function did we use in PHP to replace HTML special characters?
 htmlspecialchars()
